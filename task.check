@@ -1,0 +1,4 @@
+generator: <<HERE
+!bash
+cat $(config check)
+HERE
