@@ -1,2 +1,4 @@
 # test123
-test
+
+
+s6 --task-run .@path=/etc/sudoers,check=check1
